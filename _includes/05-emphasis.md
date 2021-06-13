@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*GitHub Learning Platform*
+_Different writings_
+
+**Never Give up attitude**
+__MUst be given to thrust upon challenges__
+
+_Everyone **can** do it_
